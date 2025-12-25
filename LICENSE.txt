@@ -1,0 +1,71 @@
+WAR CUT / WAR CUT STUDIO — PROPRIETARY EDUCATIONAL USE LICENSE
+Version 1.0 — December 2025
+
+Copyright © 2025–Present Kevin Ray (Warcut Studio).
+All rights reserved.
+
+IMPORTANT: THIS IS NOT AN OPEN SOURCE LICENSE.
+NO COMMERCIAL USE. NO REDISTRIBUTION. NOT FOR SALE.
+
+1. DEFINITIONS
+“Work” means all source code, documentation, assets, builds, and materials in this repository,
+including any modifications or derivatives.
+“Author” means Kevin Ray (Warchief | CODE MARAUDER).
+“Non-Commercial” means no sale, resale, licensing fees, subscriptions, ad revenue, sponsorship,
+donations tied to access, paywalls, or any other revenue-generating use.
+
+2. LIMITED LICENSE GRANT (EDUCATIONAL USE ONLY)
+Permission is granted to view, download, and run the Work solely for personal educational
+purposes, provided that you comply with all restrictions below.
+
+3. RESTRICTIONS (NO REDISTRIBUTION / NO COMMERCIAL USE)
+You may NOT, without prior written permission from the Author:
+a) Sell, resell, rent, lease, sublicense, or otherwise commercialize the Work;
+b) Redistribute, re-host, mirror, publish, upload, share, or disseminate the Work (in whole or in part),
+   including via public repositories, file sharing, “paste” sites, torrents, or package registries;
+c) Remove, alter, or obscure copyright, trademark, or attribution notices;
+d) Present the Work (or any substantially similar portion) as your own;
+e) Use the Work to provide services, consulting, or products that generate revenue;
+f) Use the Work in any way that implies authorization, endorsement, or partnership by the Author.
+
+4. OWNERSHIP
+All right, title, and interest in and to the Work remains exclusively with the Author.
+No rights are granted except those explicitly stated in this license.
+
+5. CONTRIBUTIONS
+Unless you have a separate written agreement with the Author, you should not submit pull requests
+or patches intending to grant any rights. Any unsolicited contributions may be rejected or, if accepted,
+may be treated as assigned to the Author to the fullest extent permitted by law.
+
+6. TERMINATION
+This license terminates automatically if you violate any term. Upon termination, you must stop using
+the Work and destroy all copies in your possession or control.
+
+7. NO WARRANTY
+THE WORK IS PROVIDED “AS IS”, WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING
+BUT NOT LIMITED TO WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE,
+AND NON-INFRINGEMENT.
+
+8. LIMITATION OF LIABILITY
+TO THE MAXIMUM EXTENT PERMITTED BY LAW, THE AUTHOR SHALL NOT BE LIABLE FOR ANY CLAIM,
+DAMAGES, OR OTHER LIABILITY ARISING FROM OR RELATED TO THE WORK OR THIS LICENSE.
+
+9. ENFORCEMENT
+Unauthorized use, copying, or commercialization may constitute infringement and may be pursued
+through legal remedies.
+
+10. LINKS / OFFICIAL PAGES
+https://warcut.warchief.dev
+https://codemarauder.dev
+https://warchief.dev
+https://sitaroundandlooktough.com
+https://github.com/kevinray-dev
+https://www.youtube.com/@RayK.R
+https://codepen.io/257-86-25-207-31-207
+
+11. TRADEMARKS
+Warcut™, Warcut Studio™, and related marks may be pending registration. All trademarks are the
+property of their respective owners. No trademark rights are granted under this license.
+
+CONTACT
+For permissions or licensing inquiries: Kevin Ray [!! DO NOT INQUIRE !!] 
